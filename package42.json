@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "meta": {
+        "title": "py93-tutorpackage",
+        "author": "hasha2982",
+        "dispVer": "v1.0.0",
+        "compVer": 1,
+        "license": "WTFPL",
+        "packageSite": "https://github.com/hasha2982/py93-tutorpackage"
+    },
+    "install": {
+        "self": "https://raw.githack.com/hasha2982/py93-tutorpackage/master/package42.json",
+        "package": "https://rawcdn.githack.com/hasha2982/py93-tutorpackage/f6065931c3116080111e0fd9a203d6494db49367/py93tutorpackage.brython.js"
+    }
+}
